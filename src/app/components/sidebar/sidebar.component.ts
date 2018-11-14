@@ -10,6 +10,7 @@ export const ROUTES: RouteInfo[] = [
     { path: '/dashboard', title: 'Dashboard',  icon: 'design_app', class: '' },
     { path: '/new-retry', title: 'Retry',  icon:'users_single-02', class: '' },
     { path: '/table-list', title: 'Table List',  icon:'design_bullet-list-67', class: '' },
+    { path: '/workflow-manager', title: 'Workflow manager',  icon:'design_bullet-list-67', class: '' },
     
 ];
 
